@@ -37,3 +37,4 @@ OpenWeather (https://openweathermap.org/api)
 
 1. Get the current weather information for any city in the world.
 2. Get the weather forecast for 5 days / 3 hours intervals for any city in the world.
+3. Ask the users if they want to save the forecast to Excel file in the current directory.
